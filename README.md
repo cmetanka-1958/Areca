@@ -219,4 +219,4 @@ Areca is offered as a **full free version** with all features and updates includ
 Take control of your data security today! **Download Areca for free and protect your vital information effortlessly!**
 
 ---
-**Last updated:** 2026-10-27 10:21:08 UTC
+**Last updated:** 2026-10-27 16:23:25 UTC
